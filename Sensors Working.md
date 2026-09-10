@@ -1,12 +1,17 @@
-PIR Sensor: https://www.youtube.com/watch?v=mXtQtpYg3k0
+PIR Sensor: 
+https://www.youtube.com/watch?v=mXtQtpYg3k0
 
-LDR: https://www.youtube.com/watch?v=g8fk6FsGbEQ
+LDR: 
+https://www.youtube.com/watch?v=g8fk6FsGbEQ
 
-Types of Sensors: https://www.youtube.com/shorts/GZfGOdq11Sk
+Types of Sensors: 
+https://www.youtube.com/shorts/GZfGOdq11Sk
 
-Working PIR Sensor: https://www.youtube.com/watch?v=V1QY9hjipc0
+Working PIR Sensor: 
+https://www.youtube.com/watch?v=V1QY9hjipc0
 
-PIR MOTION SENSOR/DETECTOR: https://www.youtube.com/watch?v=NZ1RHtF2rEA
+PIR MOTION SENSOR/DETECTOR: 
+https://www.youtube.com/watch?v=NZ1RHtF2rEA
 
 LDR:
 https://www.youtube.com/watch?v=g8fk6FsGbEQ
