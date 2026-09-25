@@ -1,0 +1,32 @@
+TRAFFISENSE AI/ROADGUARD AI
+
+
+MEDISETU AI/JeevaMitra
+
+
+VIDYABOT AI/ROBOGURU
+
+
+SEA-SHIELD/
+
+An Arduino-Based Emergency Communication & Location Tracking Device
+
+FISHERGUARD
+
+Smart Emergency Communication and Geo-Tracking for Fishermen
+
+Medical and RMP
+
+AI Robotic Hand --Keep hand inside
+
+
+Analyse-blood sample-sugar level-bp level-monitor display,using AI ,we train Ai-connecto expertsa
+
+try this medicines,or go to ,its like first aid,or rmp can also use this ,display,print,voice message
+
+
+componenst:
+raspberry pi
+python prog,ai algo
+blood sample o2 sensor,temp sensor,sugar--suger testing device-connect to raspeberry pi--cloud storage
+
