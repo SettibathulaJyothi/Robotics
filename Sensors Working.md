@@ -50,3 +50,10 @@ https://www.youtube.com/watch?v=cd04o5yqSAU&list=PLlBVuTSjOrclb0iCMSRpS_H1lSrlSV
 
 Ultra Sonic Sensor Testing:    
 https://www.youtube.com/watch?v=FHFYnWaZZQ0
+
+Robot DIY : https://www.youtube.com/watch?v=aDsvusM6qMo
+
+Robot Rock Paper Scissors: https://www.youtube.com/shorts/wkof60aqg6w
+
+Walking Robot: https://www.youtube.com/watch?v=v_oRWVafkVw
+
